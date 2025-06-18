@@ -1,5 +1,5 @@
 jupyter==1.0.0
 scipy==1.9.2
-scikit-learn==1.1.2
+scikit-learn==1.5.0
 matplotlib==3.6.1
 bqplot==0.12.36
